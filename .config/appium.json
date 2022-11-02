@@ -1,0 +1,7 @@
+{
+  "hostname": "localhost",
+  "path": "/",
+  "port": 4723,
+  "logLevel": "error",
+  "timeout": 10
+}

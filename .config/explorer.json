@@ -1,0 +1,8 @@
+{
+  "maxTraces": 10,
+  "maxDepth": 10,
+  "saveImages": true,
+  "highlight": false,
+  "screenshot": "application",
+  "WAIT_SECONDS": 2
+}
